@@ -1,0 +1,2 @@
+# Embedded-Operational-Systems
+This repository holds my activities during the online course `ECOS03 - Sistemas Operacionais Embarcados` taught by professor **Rodrigo Maximiano Antunes de Almeida**. This course is found in the playlist of the professor's channel. The videos referring to the course can be found at the following web address  `https://youtube.com/playlist?list=PLqBAJMdCNemmvUYzwij935_VYaiuaJkta`
